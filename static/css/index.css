@@ -1,0 +1,17 @@
+body {
+    width: 1024px;
+    margin: auto;
+}
+
+.enter_header_div {
+    width: 1024px;
+    height: 300px;
+    background-image: url("../image/header_back.jpg");
+    text-align: right;
+}
+
+.enter_name {
+    margin-top: 200px;
+    font-size: 40px;
+    color: darkgrey;
+}
